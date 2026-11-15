@@ -7,8 +7,8 @@
   },
   "repository": "https://github.com/elianokk/Proxy",
   "homepage": "https://github.com/elianokk/Proxy/tree/main/icons",
-  "updated": "2026-11-14",
-  "total": 504,
+  "updated": "2026-11-15",
+  "total": 509,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
@@ -146,6 +146,10 @@
     {
       "name": "Apple Store",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Apple%20Store.png"
+    },
+    {
+      "name": "Apple TV",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Apple%20TV.png"
     },
     {
       "name": "Apple",
@@ -394,6 +398,10 @@
     {
       "name": "Dedao",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Dedao.png"
+    },
+    {
+      "name": "DeepSeek Harness",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/DeepSeek%20Harness.png"
     },
     {
       "name": "DeepSeek",
@@ -658,6 +666,10 @@
     {
       "name": "Google",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Google.png"
+    },
+    {
+      "name": "Grok Bot",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Grok%20Bot.png"
     },
     {
       "name": "Grok",
@@ -964,6 +976,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Lyra.png"
     },
     {
+      "name": "LyricsNow",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/LyricsNow.png"
+    },
+    {
       "name": "MAC",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/MAC.png"
     },
@@ -974,6 +990,10 @@
     {
       "name": "Mapify",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Mapify.png"
+    },
+    {
+      "name": "Mate AI",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Mate%20AI.png"
     },
     {
       "name": "MD Vinyl",
