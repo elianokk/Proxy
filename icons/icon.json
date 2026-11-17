@@ -7,8 +7,8 @@
   },
   "repository": "https://github.com/elianokk/Proxy",
   "homepage": "https://github.com/elianokk/Proxy/tree/main/icons",
-  "updated": "2026-11-15",
-  "total": 509,
+  "updated": "2026-11-17",
+  "total": 533,
   "specifications": {
     "format": "PNG",
     "resolution": "1024x1024",
@@ -100,6 +100,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Angel%20Live.png"
     },
     {
+      "name": "Antigravity",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Antigravity.png"
+    },
+    {
       "name": "API Wallet",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/API%20Wallet.png"
     },
@@ -180,6 +184,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Azure.png"
     },
     {
+      "name": "Baicizhan",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Baicizhan.png"
+    },
+    {
       "name": "Baidu Input",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Baidu%20Input.png"
     },
@@ -190,6 +198,10 @@
     {
       "name": "Baidu Read",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Baidu%20Read.png"
+    },
+    {
+      "name": "Baidu Translate",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Baidu%20Translate.png"
     },
     {
       "name": "Baidu",
@@ -368,6 +380,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Console%20Remote.png"
     },
     {
+      "name": "CoolAPk",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/CoolAPk.png"
+    },
+    {
       "name": "Copilot",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Copilot.png"
     },
@@ -468,6 +484,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/DuckDuckGo.png"
     },
     {
+      "name": "Duolingo",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Duolingo.png"
+    },
+    {
       "name": "Dynaudio",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Dynaudio.png"
     },
@@ -486,6 +506,10 @@
     {
       "name": "Emby",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Emby.png"
+    },
+    {
+      "name": "ERNIE Bot",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/ERNIE%20Bot.png"
     },
     {
       "name": "EU",
@@ -548,6 +572,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Firefox.png"
     },
     {
+      "name": "Flat",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Flat.png"
+    },
+    {
       "name": "Flex",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Flex.png"
     },
@@ -570,6 +598,10 @@
     {
       "name": "Game",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Game.png"
+    },
+    {
+      "name": "Gemini Notebook",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Gemini%20Notebook.png"
     },
     {
       "name": "Gemini",
@@ -920,6 +952,14 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/LINE.png"
     },
     {
+      "name": "LingoChamp",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/LingoChamp.png"
+    },
+    {
+      "name": "LingoQ",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/LingoQ.png"
+    },
+    {
       "name": "Link",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Link.png"
     },
@@ -934,6 +974,18 @@
     {
       "name": "LinkedIn",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/LinkedIn.png"
+    },
+    {
+      "name": "Linux do",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Linux%20do.png"
+    },
+    {
+      "name": "Linux Plus",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Linux%20Plus.png"
+    },
+    {
+      "name": "Linux Tutorial",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Linux%20Tutorial.png"
     },
     {
       "name": "Listenify",
@@ -982,6 +1034,10 @@
     {
       "name": "MAC",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/MAC.png"
+    },
+    {
+      "name": "MangoTV",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/MangoTV.png"
     },
     {
       "name": "Maoyan",
@@ -1062,6 +1118,10 @@
     {
       "name": "Migiri",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Migiri.png"
+    },
+    {
+      "name": "Migu Music",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Migu%20Music.png"
     },
     {
       "name": "MIGU Video",
@@ -1452,6 +1512,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Reflix.png"
     },
     {
+      "name": "Rex",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Rex.png"
+    },
+    {
       "name": "RNote",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/RNote.png"
     },
@@ -1504,6 +1568,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Shimo%20Docs.png"
     },
     {
+      "name": "Shortcuts",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Shortcuts.png"
+    },
+    {
       "name": "Shuyingji",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Shuyingji.png"
     },
@@ -1522,6 +1590,10 @@
     {
       "name": "Siri",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Siri.png"
+    },
+    {
+      "name": "Sketchbook",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Sketchbook.png"
     },
     {
       "name": "SMZDM",
@@ -1668,6 +1740,14 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Tencent%20Video.png"
     },
     {
+      "name": "Tencent Yuanbao",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Tencent%20Yuanbao.png"
+    },
+    {
+      "name": "Terminal",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Terminal.png"
+    },
+    {
       "name": "TG Connect",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/TG%20Connect.png"
     },
@@ -1766,6 +1846,10 @@
     {
       "name": "TVBox",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/TVBox.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Twitch.png"
     },
     {
       "name": "Twitter",
@@ -1924,6 +2008,10 @@
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/WordPress.png"
     },
     {
+      "name": "WorkBuddy",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/WorkBuddy.png"
+    },
+    {
       "name": "WPS Collaboration",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/WPS%20Collaboration.png"
     },
@@ -1938,6 +2026,10 @@
     {
       "name": "WPS PDF",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/WPS%20PDF.png"
+    },
+    {
+      "name": "X Browser",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/X%20Browser.png"
     },
     {
       "name": "X",
@@ -1990,6 +2082,10 @@
     {
       "name": "XPTV",
       "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/XPTV.png"
+    },
+    {
+      "name": "Yangshipin",
+      "url": "https://raw.githubusercontent.com/elianokk/Proxy/main/icons/assets/Yangshipin.png"
     },
     {
       "name": "Youdao Note",
